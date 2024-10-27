@@ -1,0 +1,42 @@
+{
+  "name": "systema-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detecter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SYSTEMA556/js_TDD.git"
+  },
+  "keywords": [
+    "\"palindrome\"",
+    "//",
+    "プロジェクトの機能",
+    "\"javascript\"",
+    "//",
+    "使用する言語",
+    "\"mocha\"",
+    "//",
+    "テストフレームワーク",
+    "\"learn-enough\"",
+    "//",
+    "教材の名前",
+    "\"tdd\"",
+    "//",
+    "テスト駆動開発",
+    "(Test",
+    "Driven",
+    "Development)",
+    "\"string-processing\"",
+    "//",
+    "プロジェクトのテーマ"
+  ],
+  "author": "#syste",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SYSTEMA556/js_TDD/issues"
+  },
+  "homepage": "https://github.com/SYSTEMA556/js_TDD#readme"
+}
