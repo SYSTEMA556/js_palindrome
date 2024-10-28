@@ -1,1 +1,1 @@
-これは [Ruby on Rails チュートリアル  プロダクト開発の０→１を学ぼう](https://railstutorial.jp/)の[ JavaScriptを学ぶチュートリアル]（https://railstutorial.jp/javascript/hello_world#cha-hello_world）の[第８章 TDDテストとテスト駆動開発　](https://railstutorial.jp/javascript/testing#cha-testing）で用いているコードです。基本的にミスが多いです。
+これは [Ruby on Rails チュートリアル  プロダクト開発の０→１を学ぼう](https://railstutorial.jp/)の[ JavaScriptを学ぶチュートリアル]（h
